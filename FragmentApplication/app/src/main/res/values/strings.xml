@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FragmentApplication</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu">表單</string>
+    <string name="computer">計算機</string>
+    <string name="tools">工具</string>
+</resources>
